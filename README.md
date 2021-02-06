@@ -1,4 +1,6 @@
 # Atlanta-Project
+*in progress, not yet published*
+
 A spatial examination racial-ethnic population patterns in Atlanta from 1990-2010 using conditional autoregressive (CAR) models
 
 During the 1990s and 2000s, the U.S. experienced significant shifts in immigration patterns. Immigrants settled outside of traditional destination cities – like New York, Chicago, and Los Angeles – in favor of new metropolitan areas in the Sunbelt region that previously had little history of immigration. Using Census data from 1990, 2000, and 2010, this project examines Black, Latinx, Asian, and White population patterns in the Atlanta Metropolitan Area, a quickly emerging immigrant destination in the South. 
